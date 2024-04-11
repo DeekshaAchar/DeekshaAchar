@@ -10,7 +10,7 @@
 ## Connect with me:
 -LinkedIn:https://www.linkedin.com/in/deeksha-d-achar-70a602281/?originalSubdomain=in  
 
--Email:deekshadachar2001@gmail.com  
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshaachar" alt="deekshaachar" /></a> </p>
