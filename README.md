@@ -3,7 +3,7 @@
 
 ## About me:
 - Eager to Kickstart a promising career by applying my skills and attributes and a commitment to learning and growth.  
-- Improving my skills my building responsive and user-friendly application and posting my learnings here.  
+- Improving my skills in backend technologies and building responsive, user-friendly applications while sharing my learnings here.  
 - I believe in continuous learning and thrive in dynamic environments that challenge me to grow both personally and professionally.
 - I am constantly seeking opportunities to expand my knowledge and stay updated with the latest advancements .
 
